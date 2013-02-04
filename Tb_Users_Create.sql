@@ -6,6 +6,8 @@ IF EXISTS
 )
     DROP TABLE Tb_Users;
 
+--to create the table again
+
 
 CREATE TABLE Tb_Users
 (
